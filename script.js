@@ -9,3 +9,5 @@ function initMap() {
     mapProp
   );
 }
+
+window.initMap = initMap;
