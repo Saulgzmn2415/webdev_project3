@@ -239,7 +239,7 @@ body.map {
   background-color: #cbfbd250;
 }
 
-
+/*Media Query 1: changing the logo of the image to a red version, the font color of the paragraph text to light gray font, changing the color of the heading text font to red, and changing the color of the transparent border/background to dark grey. */ 
 @media screen and (min-width: 800px) {
 
   body.home img {
@@ -275,6 +275,8 @@ body.map {
     z-index: -1;
   }
 }
+
+/*Media Query 2: changing the logo of the image to a green version, the font color of the paragraph text to a white font, changing the color of the heading text font to green, and changing the color of the transparent border/background to black grey. */
 @media screen and (min-width: 1200px) {
 
   body.home img {
